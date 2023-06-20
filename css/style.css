@@ -1,0 +1,236 @@
+.outer{
+             width:1300px;
+             height:1300px;
+             background-color:blue;
+            margin: 0 auto;
+}
+.header{
+             width:1300px;
+             height:150px;
+             background-color: #cac;
+
+}
+.hleft{
+             width:150px;
+             height:100px;
+             background-color:#cac;
+             color:black;
+             float:left;
+              margin:15px 0px 0px 20px;
+              border-radius:50%;
+}
+.hleft:hover{
+    margin-left: 10px;
+}
+.hleft img{
+border-radius:50%;
+}
+ .hright{
+             width:450px;
+             height:100px;
+             background-color:#cac;
+             float:right;
+             text-align:center;
+             font-size:40px;
+             margin:22px 15px 0px 0px;
+             border-radius:30px;
+             font-style:italic;
+             font-weight:bold;
+}
+.hright:hover{
+background-color:yellow;
+color:red;
+padding:5px;
+box-sizing:border-box;
+transition:1s;
+}
+ .menubar{
+             width:1300px;
+             height:100px;
+             background-color:#ffa;
+}
+.menus{
+             width:190px;
+             height:70px;
+             background-color:#aaa;
+             float:left;
+margin:10px 5px 0px 20px;
+font-size:20px;
+text-align:center;
+padding:15px;
+box-sizing:border-box;
+  border-radius:20px;
+font-family:Arial Black;
+}
+.menus:hover{
+background-color:rgb(62, 212, 62);
+color:rgb(202, 47, 47);
+padding:20px;
+box-sizing:border-box;
+}
+.slider{
+             width:1300px;
+             height:500px;
+             background-color:#009;
+}
+.main{
+             width:1300px;
+             height:700px;
+             background-color:#fff;
+
+}
+.mleft{
+ width:200px;
+             height:700px;
+             background-color:#ffa;
+float:left;
+}
+white{
+color:red;
+font-weight:bold;
+}
+.mright{
+             width:1100px;
+             height:700px;
+             background-color:#cac;
+            color:#000;
+             float:right;
+                text-align:justify;     
+             font-size:20px;  
+             padding:0px 10px 0px 10px;
+            box-sizing:border-box;
+            border-left:1px dotted black;
+         
+}
+.lmenus{   
+             width:160px;
+             height:50px;
+             background-color:#aaa;
+             color:black;
+             margin:20px 0px 0px 25px;
+             padding:5px 3px 0px 10px;
+             box-sizing:border-box;
+             font-size:25px;
+             text-align:center;
+             border-radius:20px;
+}
+.lmenus:hover{
+background-color:rgb(71, 236, 71);
+color:rgb(202, 47, 47);
+padding:20px;
+box-sizing:border-box;
+margin-left:5px;
+font-weight:bold;
+}
+.footer{
+ width:1300px;
+             height:80px;
+             background-color:blue;
+             clear: both;
+}
+.fmenus{
+             height:30px;
+             background-color:blue;
+color:white;
+border-right:1px solid white;
+            float:left;
+padding:10px 0px 0px 30px;
+box-sizing:border-box;
+margin:20px 0px 0px 0px;
+}
+.fmenus:hover{
+    padding:10px;
+    box-sizing: border-box;
+    color:rgb(202, 47, 47)
+}
+.ml{
+margin-left:700px;
+}
+.curow{
+    width: 800px;
+    height: 60px;
+    background-color: #cac;
+}
+.culeft{
+    width: 200px;
+    height: 60px;
+    background-color: #fff;
+    float: left;
+    border-radius: 20px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    padding: 10px 0px 0px 20px ;
+    box-sizing: border-box;
+}
+.curight{
+    width: 590px;
+    height: 60px;
+    border-radius: 20px;
+    background-color: pink;
+    float: right;
+    margin-bottom: 15px;
+    font-size: 20px;
+    padding-right:20px;
+    box-sizing: border-box;
+}
+ol li{
+    font-size: 30px;
+}
+.gimage{
+    width: 250px;
+    height: 100px;
+    margin:70px 50px 60px 30px;
+    float: left;
+}
+.gimage:hover{
+    opacity: 0.5;
+    transform: scale(1.2,1.2);
+}
+.cuurow{
+    width: 800px;
+    height: 30px;
+    background-color: #cac;
+   
+}
+.cuuleft{
+    width: 200px;
+    height: 40px;
+    background-color: #ccc;
+    float: left;
+    font-size: 30px;
+    padding: 5px 0px 0px 20px ;
+    box-sizing: border-box;
+    margin: 0px 0px 10px 0px;
+}
+.cuuright{
+    width: 598px;
+    height: 40px;
+    background-color: pink;
+    float: right;
+    font-size: 20px;
+    margin: 0px 0px 10px 0px;
+    border-left: 1px solid black;
+}
+.input{
+    width:600px ;
+    height: 40px;
+}
+.tarea{
+width: 598px;
+height: 80px;
+}
+.ht100{
+    height: 100px;
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    color: #fff;
+    background-color: #009;
+}
+.mr{
+    margin-top: 40px;
+}
+.kk{
+    margin-left: 250px;
+}
